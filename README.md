@@ -10,11 +10,7 @@ I am learning to dig deep into the Linux World. Bash scripts are just so useful 
 
 Hoping to grow this bio and contribute more to the open-source software community.
 
-## More About Me: Awesome girl with a :
-
-:purple_heart: Awesome
-
-:star: Uniquely naive tho independent
+## More About Me:
 
 :apple: Beginner mindset (**open to learning**)
 
